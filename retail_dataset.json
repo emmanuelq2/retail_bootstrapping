@@ -1,0 +1,261 @@
+{
+  "intents": [
+    {
+      "intent": "order_product",
+      "examples": [
+        {
+          "text": "I want to buy a laptop",
+          "slots": [{"type": "product_type", "value": "laptop"}]
+        },
+        {
+          "text": "Can I order the blue dress in size medium?",
+          "slots": [{"type": "product_type", "value": "dress"}]
+        },
+        {
+          "text": "I'd like to purchase a coffee maker",
+          "slots": [{"type": "product_type", "value": "coffee maker"}]
+        },
+        {
+          "text": "Add this smartphone to my cart",
+          "slots": [{"type": "product_type", "value": "smartphone"}]
+        },
+        {
+          "text": "I need to order office supplies",
+          "slots": [{"type": "product_type", "value": "office supplies"}]
+        },
+        {
+          "text": "Can you help me buy running shoes?",
+          "slots": [{"type": "product_type", "value": "running shoes"}]
+        },
+        {
+          "text": "I want to get a new TV",
+          "slots": [{"type": "product_type", "value": "TV"}]
+        },
+        {
+          "text": "I'd like to order groceries for delivery",
+          "slots": [{"type": "product_type", "value": "groceries"}]
+        },
+        {
+          "text": "Can I purchase this book?",
+          "slots": [{"type": "product_type", "value": "book"}]
+        },
+        {
+          "text": "I need to buy a gift for my friend",
+          "slots": [{"type": "product_type", "value": "gift"}]
+        },
+        {
+          "text": "I want to order a gaming console",
+          "slots": [{"type": "product_type", "value": "gaming console"}]
+        },
+        {
+          "text": "Can I get this in black color?",
+          "slots": []
+        },
+        {
+          "text": "I'd like to buy winter jackets",
+          "slots": [{"type": "product_type", "value": "winter jackets"}]
+        },
+        {
+          "text": "Add headphones to my order",
+          "slots": [{"type": "product_type", "value": "headphones"}]
+        },
+        {
+          "text": "I want to purchase kitchen appliances",
+          "slots": [{"type": "product_type", "value": "kitchen appliances"}]
+        },
+        {
+          "text": "Can I order furniture for my home?",
+          "slots": [{"type": "product_type", "value": "furniture"}]
+        },
+        {
+          "text": "I need to buy baby products",
+          "slots": [{"type": "product_type", "value": "baby products"}]
+        },
+        {
+          "text": "I'd like to get this camera",
+          "slots": [{"type": "product_type", "value": "camera"}]
+        },
+        {
+          "text": "Can I order pet supplies?",
+          "slots": [{"type": "product_type", "value": "pet supplies"}]
+        },
+        {
+          "text": "I want to buy cosmetics",
+          "slots": [{"type": "product_type", "value": "cosmetics"}]
+        },
+        {
+          "text": "I need to purchase electronic accessories",
+          "slots": [{"type": "product_type", "value": "electronic accessories"}]
+        },
+        {
+          "text": "Can I order sports equipment?",
+          "slots": [{"type": "product_type", "value": "sports equipment"}]
+        },
+        {
+          "text": "I'd like to buy home decor items",
+          "slots": [{"type": "product_type", "value": "home decor items"}]
+        },
+        {
+          "text": "I want to get garden tools",
+          "slots": [{"type": "product_type", "value": "garden tools"}]
+        },
+        {
+          "text": "Can I purchase cleaning supplies?",
+          "slots": [{"type": "product_type", "value": "cleaning supplies"}]
+        },
+        {
+          "text": "I need to order stationery items",
+          "slots": [{"type": "product_type", "value": "stationery items"}]
+        },
+        {
+          "text": "I'd like to buy toys for kids",
+          "slots": [{"type": "product_type", "value": "toys"}]
+        },
+        {
+          "text": "Can I get this watch?",
+          "slots": [{"type": "product_type", "value": "watch"}]
+        },
+        {
+          "text": "I want to order health supplements",
+          "slots": [{"type": "product_type", "value": "health supplements"}]
+        },
+        {
+          "text": "I need to buy automotive parts",
+          "slots": [{"type": "product_type", "value": "automotive parts"}]
+        }
+      ]
+    },
+    {
+      "intent": "contact_customer_service",
+      "examples": [
+        {
+          "text": "I need to speak with customer support",
+          "slots": []
+        },
+        {
+          "text": "Can I talk to a representative?",
+          "slots": []
+        },
+        {
+          "text": "I have a complaint about my order",
+          "slots": []
+        },
+        {
+          "text": "I need help with my purchase",
+          "slots": []
+        },
+        {
+          "text": "Can someone assist me?",
+          "slots": []
+        },
+        {
+          "text": "I want to file a complaint",
+          "slots": []
+        },
+        {
+          "text": "I need to speak to a manager",
+          "slots": []
+        },
+        {
+          "text": "How can I reach customer service?",
+          "slots": []
+        },
+        {
+          "text": "I need help resolving an issue",
+          "slots": []
+        },
+        {
+          "text": "Can I get support for my problem?",
+          "slots": []
+        },
+        {
+          "text": "I want to talk to someone about my order",
+          "slots": []
+        },
+        {
+          "text": "I need assistance with a defective product",
+          "slots": []
+        },
+        {
+          "text": "Can you connect me to support?",
+          "slots": []
+        },
+        {
+          "text": "I have a question for customer service",
+          "slots": []
+        },
+        {
+          "text": "I need to report a problem",
+          "slots": []
+        },
+        {
+          "text": "Can I speak with an agent?",
+          "slots": []
+        },
+        {
+          "text": "I want to contact support team",
+          "slots": []
+        },
+        {
+          "text": "I need help with a return",
+          "slots": []
+        },
+        {
+          "text": "Can someone help me with my account?",
+          "slots": []
+        },
+        {
+          "text": "I have an urgent issue to discuss",
+          "slots": []
+        },
+        {
+          "text": "I need to talk to customer care",
+          "slots": []
+        },
+        {
+          "text": "Can I get help with my delivery?",
+          "slots": []
+        },
+        {
+          "text": "I want to speak to technical support",
+          "slots": []
+        },
+        {
+          "text": "I need assistance with my refund",
+          "slots": []
+        },
+        {
+          "text": "Can someone explain my billing?",
+          "slots": []
+        },
+        {
+          "text": "I have feedback to share",
+          "slots": []
+        },
+        {
+          "text": "I need help with product information",
+          "slots": []
+        },
+        {
+          "text": "Can I escalate my complaint?",
+          "slots": []
+        },
+        {
+          "text": "I want to discuss my order status",
+          "slots": []
+        },
+        {
+          "text": "I need help with payment issues",
+          "slots": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "sector": "retail",
+    "version": "1.0",
+    "created_date": "2026-01-02",
+    "total_examples": 60,
+    "intent_count": 2
+  }
+}

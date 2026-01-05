@@ -1,0 +1,92 @@
+[
+  {
+    "text": "I need to buy baby products",
+    "intent": "order_product",
+    "slots": [
+      {
+        "type": "product_type",
+        "value": "baby products"
+      }
+    ]
+  },
+  {
+    "text": "Can I purchase this book?",
+    "intent": "order_product",
+    "slots": [
+      {
+        "type": "product_type",
+        "value": "book"
+      }
+    ]
+  },
+  {
+    "text": "Can someone help me with my account please",
+    "intent": "contact_customer_service",
+    "slots": []
+  },
+  {
+    "text": "I need to buy automotive parts",
+    "intent": "order_product",
+    "slots": [
+      {
+        "type": "product_type",
+        "value": "automotive parts"
+      }
+    ]
+  },
+  {
+    "text": "Can I order furniture for my home?",
+    "intent": "order_product",
+    "slots": [
+      {
+        "type": "product_type",
+        "value": "furniture"
+      }
+    ]
+  },
+  {
+    "text": "I need to speak with customer support",
+    "intent": "contact_customer_service",
+    "slots": []
+  },
+  {
+    "text": "I need to buy a gift for my friend",
+    "intent": "order_product",
+    "slots": [
+      {
+        "type": "product_type",
+        "value": "gift"
+      }
+    ]
+  },
+  {
+    "text": "I want to contact support team",
+    "intent": "contact_customer_service",
+    "slots": []
+  },
+  {
+    "text": "I want to talk to someone about my order",
+    "intent": "contact_customer_service",
+    "slots": []
+  },
+  {
+    "text": "i want to get garden tools",
+    "intent": "order_product",
+    "slots": [
+      {
+        "type": "product_type",
+        "value": "garden tools"
+      }
+    ]
+  },
+  {
+    "text": "I need assistance with a defective product",
+    "intent": "contact_customer_service",
+    "slots": []
+  },
+  {
+    "text": "I need help with payment issues",
+    "intent": "contact_customer_service",
+    "slots": []
+  }
+]

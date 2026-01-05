@@ -1,0 +1,14 @@
+{
+  "total_examples": 90,
+  "training_examples": 62,
+  "validation_examples": 12,
+  "test_examples": 16,
+  "intents": {
+    "contact_customer_service": 45,
+    "order_product": 45
+  },
+  "slots": {
+    "product_type": 44
+  },
+  "generated_date": "2026-01-05T17:06:23.932839"
+}

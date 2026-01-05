@@ -1,0 +1,122 @@
+[
+  {
+    "text": "I need to order office supplies",
+    "intent": "order_product",
+    "slots": [
+      {
+        "type": "product_type",
+        "value": "office supplies"
+      }
+    ]
+  },
+  {
+    "text": "I'd like to order groceries for delivery right now",
+    "intent": "order_product",
+    "slots": [
+      {
+        "type": "product_type",
+        "value": "groceries"
+      }
+    ]
+  },
+  {
+    "text": "Add headphones to my order",
+    "intent": "order_product",
+    "slots": [
+      {
+        "type": "product_type",
+        "value": "headphones"
+      }
+    ]
+  },
+  {
+    "text": "I need to purchase electronic accessories",
+    "intent": "order_product",
+    "slots": [
+      {
+        "type": "product_type",
+        "value": "electronic accessories"
+      }
+    ]
+  },
+  {
+    "text": "I'd like to get this camera",
+    "intent": "order_product",
+    "slots": [
+      {
+        "type": "product_type",
+        "value": "camera"
+      }
+    ]
+  },
+  {
+    "text": "Can someone help me with my account?",
+    "intent": "contact_customer_service",
+    "slots": []
+  },
+  {
+    "text": "How can I reach customer service?",
+    "intent": "contact_customer_service",
+    "slots": []
+  },
+  {
+    "text": "I need to order stationery items",
+    "intent": "order_product",
+    "slots": [
+      {
+        "type": "product_type",
+        "value": "stationery items"
+      }
+    ]
+  },
+  {
+    "text": "Can I escalate my complaint?",
+    "intent": "contact_customer_service",
+    "slots": []
+  },
+  {
+    "text": "Please help me i need help with product information",
+    "intent": "contact_customer_service",
+    "slots": []
+  },
+  {
+    "text": "Can I get help with my delivery?",
+    "intent": "contact_customer_service",
+    "slots": []
+  },
+  {
+    "text": "I want to i need to buy baby products",
+    "intent": "order_product",
+    "slots": [
+      {
+        "type": "product_type",
+        "value": "baby products"
+      }
+    ]
+  },
+  {
+    "text": "I want to purchase a gaming console",
+    "intent": "order_product",
+    "slots": [
+      {
+        "type": "product_type",
+        "value": "gaming console"
+      }
+    ]
+  },
+  {
+    "text": "I have a complaint about my order please",
+    "intent": "contact_customer_service",
+    "slots": []
+  },
+  {
+    "text": "I need help with a return",
+    "intent": "contact_customer_service",
+    "slots": []
+  },
+  {
+    "text": "Could you i need help with product information",
+    "intent": "contact_customer_service",
+    "slots": []
+  }
+]
